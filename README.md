@@ -3,6 +3,8 @@
 
 package main
 
+az psg
+
 import (
     "fmt"
     "net/http"
