@@ -3,7 +3,7 @@
 
 package main
 
-az psg
+thomas
 
 import (
     "fmt"
